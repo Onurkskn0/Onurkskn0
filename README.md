@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Onur Keskin!
 
-<!--
-**Onurkskn0/Onurkskn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Tailwind+Uzman%C4%B1;Modern+Web+Deneyimleri+Yarat%C4%B1yorum" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Modern web teknolojileriyle **kullanıcı odaklı deneyimler** yaratmaya tutkulu bir Frontend Developer adayıyım. 
+React ve Tailwind CSS ile pixel-perfect, responsive arayüzler kodluyorum.
+
+- 🔭 Şu an üzerinde çalıştığım: **Portfolyo Web Sitesi**
+- 🌱 Öğrendiğim: **React Hooks, Advanced CSS Animations**
+- 💬 Benimle konuş: **JavaScript, React, Tailwind CSS**
+- ⚡ Fun fact: **Kod yazarken hikaye anlatmayı seviyorum**
+
+## 🛠️ Teknolojiler & Araçlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onurkskn0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onurkskn0&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF3D9A&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkskn0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+</div>
+
+## 🎨 Öne Çıkan Projeler
+
+<div align="center">
+  <a href="https://github.com/Onurkskn0/SkyPulse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurkskn0&repo=SkyPulse&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" />
+  </a>
+  
+  <a href="https://github.com/Onurkskn0/Done.">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurkskn0&repo=Done.&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" />
+  </a>
+</div>
+
+## 📫 Benimle İletişime Geç
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/onur-kskn0">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:onurkeskin450@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/onur_kskn0">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Onurkskn0&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<p align="center">💙 Modern web'in gücüyle harika şeyler yaratmak için buradayım!</p>
