@@ -47,15 +47,34 @@ React ve Tailwind CSS ile pixel-perfect, responsive arayüzler kodluyorum.
 </div>
 ## 🎨 Öne Çıkan Projeler
 
-<div align="center">
-  <a href="https://github.com/Onurkskn0/SkyPulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurkskn0&repo=SkyPulse&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" />
-  </a>
-  
-  <a href="https://github.com/Onurkskn0/Done.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurkskn0&repo=Done.&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%">
+
+### 🌤️ SkyPulse
+**Hava Durumu Uygulaması**
+
+Modern ve minimalist tasarıma sahip, gerçek zamanlı hava durumu verilerini gösteren React uygulaması.
+
+**Tech Stack:** React · API · Tailwind CSS
+
+🔗 [Demo](https://sky-pulse-mu.vercel.app/) | 💻 [Kod](https://github.com/Onurkskn0/SkyPulse)
+
+</td>
+<td width="50%">
+
+### ✅ Done
+**Yapılacaklar Listesi**
+
+Kullanıcı dostu arayüzü ve local storage entegrasyonu ile modern bir todo uygulaması.
+
+**Tech Stack:** React · LocalStorage · CSS
+
+🔗 [Demo](https://done-ten.vercel.app/) | 💻 [Kod](https://github.com/Onurkskn0/Done.)
+
+</td>
+</tr>
+</table>
 
 ## 📫 Benimle İletişime Geç
 
