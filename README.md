@@ -30,13 +30,21 @@ React ve Tailwind CSS ile pixel-perfect, responsive arayüzler kodluyorum.
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onurkskn0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onurkskn0&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF3D9A&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <!-- GitHub Stats - Alternatif servis -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Onurkskn0&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B537FF&text_color=FFF"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurkskn0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Onurkskn0&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF3D9A&currStreakLabel=00D9FF"/>
+  
 </div>
 
+<div align="center">
+  
+  <!-- En Çok Kullanılan Diller -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Onurkskn0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF"/>
+  
+</div>
 ## 🎨 Öne Çıkan Projeler
 
 <div align="center">
